@@ -1,0 +1,14 @@
+/* Dark theme overrides */
+[data-theme="dark"] .someClass {
+  background-color: rgb(0,0,0);
+  border: 1px solid #6c757d;
+  color: #dee2e6;
+}
+
+[data-theme="dark"] a {
+  color: #96C93E;
+}
+
+[data-theme="light"] a {
+  color: #007bff;
+}
